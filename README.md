@@ -56,7 +56,7 @@ CI_ENVIRONMENT = development
 #--------------------------------------------------------------------
 ```
 Fungsi mengubah dari production ke development adalah untuk memudahkan debugging pada saat error, berikut contoh tampilan dari debugging. <br>
-![image](https://github.com/chintafitriana/chintafitriana/assets/118662112/928704ed-c032-4d5a-b81c-3bd0e82e0a4f)
+![image](https://github.com/chintafitriana/Tugas1_PBF_ChintaFitriana/assets/118662112/75edc2a1-733d-4b26-a034-7a22a52e60b7)
 
 4. **Struktur Folder** <br>
 Codeigniter4 dikenal dengan konsep MVC nya (Models, View, Controller) Struktur folder pada codeigniter4 meliputi:<br>
